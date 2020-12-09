@@ -15,7 +15,7 @@
 
 <br/>
 
-## I'm Hitesh Pal
+## I'm Hitesh Malhotra
 - A Computer Science undergraduate, currently in second year @Thapar_University.
 - I'm working as an intern at SIRPI as a R-programmer.
 - Actively looking for projects in Data-Science/Dev.
@@ -55,7 +55,7 @@
 <img align="left" alt="Hitesh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/numpy.svg" />
 <!-- <img align="left" alt="Hitesh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" /> -->
 
-<!-- <br/> -->
+<br/>
 
 ### Miscellaneous
 <img align="left" alt="Hitesh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
