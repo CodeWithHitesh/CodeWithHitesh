@@ -19,7 +19,7 @@
 - A Computer Science undergraduate, currently in second year @Thapar_University.
 - I'm working as an intern at SIRPI as a R-programmer.
 - Actively looking for projects in Data-Science/Dev.
-- You can find my resume [here](https://github.com/WizArdZ3658/Resume/blob/main/myResume.pdf).
+<<!-- - You can find my resume [here](https://github.com/WizArdZ3658/Resume/blob/main/myResume.pdf). >>
 
 ## Tech stack I've worked with
 ### Languages :-
