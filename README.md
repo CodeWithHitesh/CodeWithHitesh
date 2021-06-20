@@ -17,7 +17,7 @@
 
 ## I'm Hitesh Malhotra
 - A Computer Science undergraduate, currently in second year @Thapar_University.
-- I'm working as an intern at SIRPI as a R-programmer.
+- Worked as an intern at SIRPI as a R-programmer.
 - Actively looking for projects in Data-Science/Dev.
 - You can find my resume [here](https://github.com/CodeWithHitesh/CodeWithHitesh/blob/master/Hitesh-Malhotra_Resume.pdf).
 
